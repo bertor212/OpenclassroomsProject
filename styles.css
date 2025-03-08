@@ -1,8 +1,8 @@
 h1 {
-    color: crimson;
+    color: rgb(73, 20, 220);
 } 
 h2 {
-    color: aqua;
+    color: rgb(4, 0, 255);
 }
 .pirate {
     font-weight: bold;
